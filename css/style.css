@@ -271,7 +271,7 @@ a.git{
     background-image: url(../imagem/wall.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 1700px;
+    max-width: 2700px;
     background-attachment: fixed;
     height: 100%;
     width: 100%;
@@ -367,7 +367,7 @@ h1.white{
     background-image: url(../imagem/wall.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 1700px;
+    max-width: 2700px;
     background-attachment: fixed;
     height: 100%;
     width: 100%;
@@ -383,7 +383,7 @@ h1.white{
     background-image: url(../imagem/wall.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    max-width: 1700px;
+    max-width: 2700px;
     background-attachment: fixed;
     text-align: center;
 }
